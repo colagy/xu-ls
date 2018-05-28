@@ -1,0 +1,22 @@
+{
+  "name": "xu-request",
+  "version": "1.0.0",
+  "description": "fetch request compatible browsers and node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colagy/xu-request.git"
+  },
+  "keywords": [
+    "colagy"
+  ],
+  "author": "colagy",
+  "license": "apache",
+  "bugs": {
+    "url": "https://github.com/colagy/xu-request/issues"
+  },
+  "homepage": "https://github.com/colagy/xu-request#readme"
+}
