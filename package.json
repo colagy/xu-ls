@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/colagy/xu-request.git"
+    "url": "https://github.com/colagy/xu-request.git"
   },
   "keywords": [
     "colagy"
   ],
   "author": "colagy",
-  "license": "apache",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/colagy/xu-request/issues"
   },
