@@ -1,5 +1,5 @@
 {
-  "name": "xu-request",
+  "name": "xu-api",
   "version": "1.0.2",
   "description": "fetch request compatible vue and react",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/colagy/xu-request.git"
+    "url": "https://github.com/colagy/xu-api.git"
   },
   "keywords": [
     "colagy"
@@ -16,7 +16,7 @@
   "author": "colagy",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/colagy/xu-request/issues"
+    "url": "https://github.com/colagy/xu-api/issues"
   },
-  "homepage": "https://github.com/colagy/xu-request#readme"
+  "homepage": "https://github.com/colagy/xu-api#readme"
 }
